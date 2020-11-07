@@ -2,4 +2,4 @@
 
 __author__ = """Matt Kinsey"""
 __email__ = "matt@mkinsey.com"
-__version__ = "0.8.1"
+__version__ = "0.8.2"
