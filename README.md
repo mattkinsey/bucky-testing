@@ -1,5 +1,5 @@
 
-# Bucky Testing
+# Bucky
 
 
 [![PyPI - Version](https://img.shields.io/pypi/v/bucky-testing.svg)](https://pypi.python.org/pypi/bucky-testing)
