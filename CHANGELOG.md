@@ -7,11 +7,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+[0.8.0] - 2020-11-07
 
-## [0.7.0] - 2020-11-07
+
+## [[Unreleased]: https://github.com/mattkinsey/bucky-testing/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/mattkinsey/bucky-testing/compare/v0.7.0...v0.8.0] - 2020-11-07
 ### Added
 - First release on PyPI.
 
 
-[Unreleased]: https://github.com/mattkinsey/bucky-testing/compare/v0.7.0...HEAD
-[0.7.0]: https://github.com/mattkinsey/bucky-testing/compare/releases/tag/v0.7.0
+[Unreleased]
+
+[0.8.0] - 2020-11-07: https://github.com/mattkinsey/bucky-testing/compare/v[Unreleased]: https://github.com/mattkinsey/bucky-testing/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/mattkinsey/bucky-testing/compare/v0.7.0...v0.8.0...HEAD
+[[Unreleased]: https://github.com/mattkinsey/bucky-testing/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/mattkinsey/bucky-testing/compare/v0.7.0...v0.8.0]: https://github.com/mattkinsey/bucky-testing/compare/releases/tag/v[Unreleased]: https://github.com/mattkinsey/bucky-testing/compare/v0.8.0...HEAD
+[0.8.0]: https://github.com/mattkinsey/bucky-testing/compare/v0.7.0...v0.8.0
