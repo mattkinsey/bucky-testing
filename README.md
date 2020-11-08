@@ -2,9 +2,9 @@
 # Bucky
 
 
-[![PyPI - Version](https://img.shields.io/pypi/v/bucky-testing.svg)](https://test.pypi.python.org/pypi/bucky-testing)
-[![PyPI - License](https://img.shields.io/pypi/l/bucky-testing.svg)](https://test.pypi.python.org/pypi/bucky-testing)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bucky-testing.svg)](https://test.pypi.python.org/pypi/bucky-testing)
+[![PyPI - Version](https://img.shields.io/pypi/v/bucky-testing.svg)](https://test.pypi.org/pypi/bucky-testing)
+[![PyPI - License](https://img.shields.io/pypi/l/bucky-testing.svg)](https://test.pypi.org/pypi/bucky-testing)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/bucky-testing.svg)](https://test.pypi.org/pypi/bucky-testing)
 [![Tests](https://github.com/mattkinsey/bucky-testing/workflows/tests/badge.svg)](https://github.com/mattkinsey/bucky-testing/actions?workflow=tests)
 [![Codecov](https://codecov.io/gh/mattkinsey/bucky-testing/branch/master/graph/badge.svg)](https://codecov.io/gh/mattkinsey/bucky-testing)
 [![Read the Docs](https://readthedocs.org/projects/bucky-testing/badge/)](https://bucky-testing.readthedocs.io/)
